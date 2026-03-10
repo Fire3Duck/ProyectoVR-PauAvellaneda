@@ -928,7 +928,7 @@ Light:
   m_Type: 2
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 0.05
-  m_Range: 0.98
+  m_Range: 1
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize2D: {x: 0.5, y: 0.5}
@@ -4558,7 +4558,7 @@ Light:
   m_Type: 2
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 0.1
-  m_Range: 0.98
+  m_Range: 1
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize2D: {x: 0.5, y: 0.5}
@@ -5073,7 +5073,7 @@ Light:
   m_Type: 2
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 0.05
-  m_Range: 0.98
+  m_Range: 1
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize2D: {x: 0.5, y: 0.5}
@@ -5367,6 +5367,26 @@ PrefabInstance:
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: e25a6bb8bc64f9843997b57d5bfe7349, type: 2}
+    - target: {fileID: 4092829967416374194, guid: 0ed2a5f5c40b0ab4eb653aa19ba540e7, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.9060678
+      objectReference: {fileID: 0}
+    - target: {fileID: 4092829967416374194, guid: 0ed2a5f5c40b0ab4eb653aa19ba540e7, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.9060678
+      objectReference: {fileID: 0}
+    - target: {fileID: 4092829967416374194, guid: 0ed2a5f5c40b0ab4eb653aa19ba540e7, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.9060678
+      objectReference: {fileID: 0}
+    - target: {fileID: 4092829967416374194, guid: 0ed2a5f5c40b0ab4eb653aa19ba540e7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 14.29
+      objectReference: {fileID: 0}
+    - target: {fileID: 4092829967416374194, guid: 0ed2a5f5c40b0ab4eb653aa19ba540e7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 10.92
+      objectReference: {fileID: 0}
     - target: {fileID: 4234372446293055058, guid: 0ed2a5f5c40b0ab4eb653aa19ba540e7, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
@@ -5402,6 +5422,26 @@ PrefabInstance:
     - target: {fileID: 8095712947918299630, guid: 0ed2a5f5c40b0ab4eb653aa19ba540e7, type: 3}
       propertyPath: m_Name
       value: CrustacioCrujiente
+      objectReference: {fileID: 0}
+    - target: {fileID: 8862858472615622198, guid: 0ed2a5f5c40b0ab4eb653aa19ba540e7, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.7390332
+      objectReference: {fileID: 0}
+    - target: {fileID: 8862858472615622198, guid: 0ed2a5f5c40b0ab4eb653aa19ba540e7, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7390332
+      objectReference: {fileID: 0}
+    - target: {fileID: 8862858472615622198, guid: 0ed2a5f5c40b0ab4eb653aa19ba540e7, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.7390332
+      objectReference: {fileID: 0}
+    - target: {fileID: 8862858472615622198, guid: 0ed2a5f5c40b0ab4eb653aa19ba540e7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 15.719441
+      objectReference: {fileID: 0}
+    - target: {fileID: 8862858472615622198, guid: 0ed2a5f5c40b0ab4eb653aa19ba540e7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 10.977926
       objectReference: {fileID: 0}
     - target: {fileID: 8868168913251416916, guid: 0ed2a5f5c40b0ab4eb653aa19ba540e7, type: 3}
       propertyPath: m_LocalScale.x
@@ -7125,7 +7165,7 @@ Light:
   m_Type: 2
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 0.05
-  m_Range: 0.98
+  m_Range: 1
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize2D: {x: 0.5, y: 0.5}
@@ -7326,7 +7366,7 @@ Light:
   m_Type: 2
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 0.1
-  m_Range: 0.98
+  m_Range: 1
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize2D: {x: 0.5, y: 0.5}
@@ -7664,7 +7704,7 @@ Light:
   m_Type: 2
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 0.1
-  m_Range: 0.98
+  m_Range: 1
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize2D: {x: 0.5, y: 0.5}
@@ -8686,6 +8726,7 @@ GameObject:
   - component: {fileID: 1803086992}
   - component: {fileID: 1803086991}
   - component: {fileID: 1803086990}
+  - component: {fileID: 1803086994}
   m_Layer: 0
   m_Name: Camera
   m_TagString: Untagged
@@ -8804,13 +8845,35 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1803086989}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: 0.70495254, z: -0, w: 0.70925456}
-  m_LocalPosition: {x: -27.17, y: 16.35, z: 36.87}
+  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
+  m_LocalPosition: {x: -27.064, y: 16.35, z: 48.236}
   m_LocalScale: {x: 0.056466773, y: 0.05721212, z: 0.056466773}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 89.651, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!95 &1803086994
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1803086989}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 6d7b322ca1d722a4e9f31f4585f860fd, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1819354155 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7601590748130126388, guid: d05bed6d1a046454e96373fc50ce30cc, type: 3}
@@ -10009,7 +10072,7 @@ Light:
   m_Type: 2
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 0.1
-  m_Range: 0.98
+  m_Range: 1
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize2D: {x: 0.5, y: 0.5}
